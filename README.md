@@ -7,7 +7,7 @@
 1. Sophie Naustdal https://github.com/sophienaustdal/MIST4610GroupProject.git
 2. Rachel Chuan https://github.com/rachelchuan/4610Proj1
 3. Riley Cook https://github.com/rileyacook/4610Proj1.git
-4. Chidera Nwosu
+4. Chidera Nwosu https://github.com/chideranwosu15/MIST4610Proj2
 5. Coleman Vaughn
 
 ## Scenario Description:
